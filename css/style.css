@@ -60,6 +60,10 @@ h2 {
 .showcase-right {
   margin-top: 60px;
 }
+section {
+  margin-top: 40px;
+  padding-top: 40px;
+}
 
 #about {
   background: #f1f1f1;
